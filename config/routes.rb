@@ -7,5 +7,7 @@ Rails.application.routes.draw do
   get 'about' => 'pages#about', as: 'about'
 
   # this auto generates a bunch of routes that we will use to create, edit, delete posts etc
-  resources :posts
+  resources :posts do
+    resources :comments
+  end
 end
