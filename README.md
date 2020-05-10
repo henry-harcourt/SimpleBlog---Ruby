@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This website is not intended for production. It is a simple personal experiment to play with fundamental Ruby on Rails.
 
-Things you may want to cover:
+* Ruby version: 2.6.6
 
-* Ruby version
+* System dependencies: 
+    -Ruby on Rails
+    -Yarn package manager
 
-* System dependencies
+* Database built in with RoR models
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
